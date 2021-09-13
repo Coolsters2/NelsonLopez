@@ -1,0 +1,203 @@
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: aliceblue;
+}
+
+.container
+{
+    text-align: center;
+}
+
+body
+{
+  text-align: center;
+  padding-top: 800px
+  font-family: Montserrat, sans-serif;
+    margin: 0;
+    
+     background: linear-gradient(#00c6ff 0% ,#9575CD 100%);
+}
+
+.profile {
+    border-radius: 50%;
+    width: 280px;
+    margin-bottom: 5px;
+    margin-top: 23;
+}
+
+.menu {
+    list-style: none
+    position: fixed;
+    top: 10px;
+    cursor: pointer;
+    z-index: 10;
+    
+}
+
+.img12 {
+    border-radius: 50%;
+    float: left;
+    margin-left: 10px;
+}
+
+#welcome {
+    height: 800px;
+    color: #ffffff;
+    left:0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    top: 0;
+    opacity: 0.83;
+    background: linear-gradient(#4cd0f5 0% ,#9575CD 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+
+.links {
+    float: left;
+    color: red;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: sans-serif;
+    font-size: 20px;
+
+}
+
+
+
+
+.links:hover {
+    background-color: black;
+    color: coral;
+    text-decoration: none;
+}
+
+
+
+
+#name {
+    font-size: 50px;
+    line-height: 1.2;
+    font-family: 'Cinzel Decorative', cursive;
+}
+
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+#bio {
+
+    padding: 50px;
+    text-align: center;
+}
+
+.line {
+    height: 6px;
+    background-color: blueviolet;
+    width: 70px;
+    margin: 8px auto;
+}
+
+
+p {
+    max-width: 450px;
+    margin: 25px auto;
+    font-size: 17px;
+    line-height: 1.3;
+}
+
+.parallax-inner {
+
+    display: table-cell;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+
+}
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+#apps {
+    width: 100%;
+    height: 800px;
+    background-color: darkblue;
+    
+}
+
+#games {
+    width: 100%;
+    height: 800px;
+    background-color: deepskyblue;
+}
+
+img {
+    transition: transform.2s;
+}
+
+img:hover {
+    transform: scale(0.9);
+    
+}
+
+#Chatbot {
+    width: 100%;
+    height: 800px;
+    background-color: deepskyblue;
+}
+
+h3 {
+    background-color: azure;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: dimgrey;
+
+}
+
+.main {
+     margin-left: 825px;
+}
+li {
+    float: right;
+    margin-left: px;
+    background-color: brown;
+}
+
+li a {
+  display: block;
+  padding: 10px;
+  float: right;
+}
+
+.chess {
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: 600;
+    padding-right: 1000px;
+    color: lime;
+}
+
+.hg {
+    border-radius: 50%;
+}
+
+.container
+{
+    text-align: center;
+}
